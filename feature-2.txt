@@ -1,3 +1,4 @@
 "Our second feature's code" 
 "Our second commit for second feature's code" 
 "Our third commit for feature-2" 
+"Fourth commit for branch feature-2" 
